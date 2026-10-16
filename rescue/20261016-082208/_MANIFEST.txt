@@ -1,0 +1,9 @@
+# 上游删文件归档清单
+上游: hjdhnx/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin (main)
+时间: 2026-10-16 08:22:09 CST
+上游 head: 4ea2de9959df0f34acd71eccf547bea30a91dfa1
+被删文件数: 2
+---
+packages/filebrowser-2.63.23.zip
+packages/filebrowser-arm32-2.63.23.zip
