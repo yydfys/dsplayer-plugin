@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: hjdhnx/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin (main)
+时间: 2026-10-17 07:04:52 CST
+上游 head: 43c55fa29c3b8abc9bcfb8d088dcab6c435ccf70
+被删文件数: 1
+---
+packages/python-1.0.2.zip
