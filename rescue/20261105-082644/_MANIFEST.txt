@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: hjdhnx/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin (main)
+时间: 2026-11-05 08:26:46 CST
+上游 head: dd6bf3189ccc3f5559d53c3f87314dd24cbffc63
+被删文件数: 1
+---
+packages/php-win-1.0.1.zip
