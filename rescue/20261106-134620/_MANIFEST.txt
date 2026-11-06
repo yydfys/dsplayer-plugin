@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: hjdhnx/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin (main)
+时间: 2026-11-06 13:46:23 CST
+上游 head: e799af4b38b055be501a8e80b545c70142f0f632
+被删文件数: 1
+---
+packages/mpv-1.0.3.apk
