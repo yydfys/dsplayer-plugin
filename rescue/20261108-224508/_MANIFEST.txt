@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: hjdhnx/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin (main)
+时间: 2026-11-08 22:45:11 CST
+上游 head: eaca973c68a73913b3a3e8cc916545bcb774dbec
+被删文件数: 1
+---
+packages/bytevc2-1.0.0.apk
