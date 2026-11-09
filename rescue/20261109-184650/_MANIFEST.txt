@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: hjdhnx/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin (main)
+时间: 2026-11-09 18:46:53 CST
+上游 head: be2cafaba69c033c0face78de46d5747fc7dcefe
+被删文件数: 1
+---
+packages/DsPlayer-Python-plugin-1.2.1-arm64.apk
