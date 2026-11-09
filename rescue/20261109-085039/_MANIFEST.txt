@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: hjdhnx/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin (main)
+时间: 2026-11-09 08:50:41 CST
+上游 head: 5371ae89182042c8871c4bb0305dd8df758cf243
+被删文件数: 1
+---
+packages/ijk-1.0.4.apk
