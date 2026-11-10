@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: hjdhnx/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin (main)
+时间: 2026-11-10 13:58:48 CST
+上游 head: 6bef5f3c9e53930fd127fe0d30469f6a13444d79
+被删文件数: 1
+---
+packages/danmu-1.0.0.zip
