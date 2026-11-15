@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: hjdhnx/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin (main)
+时间: 2026-11-16 07:10:39 CST
+上游 head: 4e64f79da7dadb7a88ddf86c5c5f64e9e2c88677
+被删文件数: 1
+---
+packages/magnet-1.0.0.zip
