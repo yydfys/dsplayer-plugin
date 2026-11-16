@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: hjdhnx/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin (main)
+时间: 2026-11-16 12:54:42 CST
+上游 head: e1c1694ece948752c009eea4a5eff920520027e0
+被删文件数: 1
+---
+packages/jar-1.0.1.zip
