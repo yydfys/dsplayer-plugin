@@ -1,0 +1,8 @@
+# 上游删文件归档清单
+上游: hjdhnx/dsplayer-plugin
+我的仓库: yydfys/dsplayer-plugin (main)
+时间: 2026-11-20 02:06:13 CST
+上游 head: dca4a1db6762d95d782377938a21248e25e396ed
+被删文件数: 1
+---
+packages/ra-tts-0.1.2.zip
